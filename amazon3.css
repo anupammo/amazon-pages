@@ -1,0 +1,63 @@
+@font-face {
+    font-family: AmazonAmber;
+    /* src: url(Ember/AmazonEmber_Rg.ttf); */
+    src: url('./assets/fonts/Ember/AmazonEmber_Rg.ttf');
+}
+
+body {
+    font-family: AmazonAmber;
+}
+
+.bg-one {
+    background-color: #003679;
+}
+
+.bg-two {
+    background-color: #031c3c;
+}
+
+.bg-three {
+    background-color: #587187;
+}
+
+#bg-sec-1 {
+    background-image: url(assets/img/amazon/section-1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bg-sec-3 {
+    background-image: url(assets/img/amazon/section-3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bg-sec-4 {
+    background-image: url(assets/img/amazon/section-4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bg-sec-6 {
+    background-image: url(assets/img/amazon/section-6.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#bg-sec-7 {
+    background-image: url(assets/img/amazon/section-7.jpg);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#bg-sec-8 {
+    background-image: url(assets/img/amazon/section-8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

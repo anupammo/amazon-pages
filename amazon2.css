@@ -1,0 +1,65 @@
+@font-face {
+    font-family: AmazonAmber;
+    /* src: url(Ember/AmazonEmber_Rg.ttf); */
+    src: url('./assets/fonts/Ember/AmazonEmber_Rg.ttf');
+}
+
+body {
+    font-family: AmazonAmber;
+}
+
+.bg-one {
+    background-color: #003679;
+}
+
+.bg-two {
+    background-color: #031c3c;
+}
+
+.bg-three {
+    background-color: #587187;
+}
+
+#page-bg-sec-1 {
+    background-image: url(assets/img/amazon//page-bg-sec-1.jpg);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+#page-bg-sec-5 {
+    background-image: url(assets/img/amazon//pg-2-section-5.png);
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.parallax {
+    background-image: url(assets/img/amazon//pg-section6.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#page-bg-sec-10 {
+    background-image: url(assets/img/amazon//pg-section10.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#page-bg-sec-13 {
+    background-image: url(assets/img/amazon//pg-section13.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#parallax-15 {
+    background-image: url(assets/img/amazon//pg-section15.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
