@@ -6,19 +6,28 @@
 
 body {
     font-family: AmazonAmber;
-}
+    color: #003679;
+  }
 
-.bg-one {
+  .bg-one {
     background-color: #003679;
-}
+  }
 
-.bg-two {
-    background-color: #031c3c;
-}
+  .bg-two {
+    background-color: #e27d26;
+  }
 
-.bg-three {
+  .bg-three {
     background-color: #587187;
-}
+  }
+
+  .text-two {
+    color: #e27d26;
+  }
+  .btn-two {
+      background-color: #e27d26;
+      border-color: #e27d26;
+  }
 
 #bg-sec-1 {
     background-image: url(assets/img/amazon/section-1.png);

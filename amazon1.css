@@ -6,6 +6,7 @@
   
       body {
         font-family: AmazonAmber;
+        color: #003679;
       }
   
       .bg-one {
@@ -13,11 +14,15 @@
       }
   
       .bg-two {
-        background-color: #031c3c;
+        background-color: #e27d26;
       }
   
       .bg-three {
         background-color: #587187;
+      }
+  
+      .text-two {
+        color: #e27d26;
       }
   
       #homepage-bg-sec-3 {
