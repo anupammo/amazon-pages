@@ -5,7 +5,7 @@
 }
   
       body {
-        font-family: AmazonAmber;
+        font-family: AmazonAmber !important;
         color: #003679;
       }
   
